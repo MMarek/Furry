@@ -1,0 +1,25 @@
+{
+  "name": "KAT_FER_S_12_REACT_Furry_Game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "start": "webpack js/app.js --mode development --output out.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodersLab/KAT_FER_S_12_REACT_Furry_Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodersLab/KAT_FER_S_12_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/CodersLab/KAT_FER_S_12_REACT_Furry_Game#readme"
+}
